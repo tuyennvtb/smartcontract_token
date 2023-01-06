@@ -1,0 +1,21 @@
+{
+  "name": "soccerbattle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.1",
+    "dotenv": "^16.0.2",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "package": "^1.0.1",
+    "package.json": "^2.0.1"
+  }
+}
